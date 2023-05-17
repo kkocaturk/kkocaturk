@@ -25,3 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkocaturk&show_icons=true&locale=en" alt="kkocaturk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkocaturk&" alt="kkocaturk" /></p>
+
+
+
+
+![snake gif](https://github.com/kkocaturk/kkocaturk/blob/output/github-contribution-grid-snake.gif)
