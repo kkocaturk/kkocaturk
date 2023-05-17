@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220313160744/Must-Have-Skills-for-Every-Software-Tester-in-2022.png)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220313160744/Must-Have-Skills-for-Every-Software-Tester-in-2022.png)
 <h1 align="center">Hi 👋, I'm Kerim KOCATÜRK</h1>
 <h3 align="center">A passionate QA Tester from Turkey</h3>
 
