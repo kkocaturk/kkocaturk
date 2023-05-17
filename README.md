@@ -29,4 +29,4 @@
 
 
 
-![snake gif](https://github.com/kkocaturk/kkocaturk/blob/output/github-contribution-grid-snake.gif)
+
