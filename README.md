@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Java Selenium**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **JUnit**
 
 - 💬 Ask me about **java, Testng, JUnit, Cucumber**
 
